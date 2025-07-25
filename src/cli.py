@@ -24,5 +24,6 @@ def parse_args():
 
 
 if __name__ == '__main__':
-    print("Привет из модуля cli")
+    print("Привет из модуля cli1")
+    print("Привет из модуля cli2")
 

@@ -55,6 +55,8 @@ class Budget:
 
 if __name__ == '__main__':
     print("Привет из models")
+    print("Привет из models1")
+    print("Привет из models2")
     pred = Budget.from_csv("../data/sample.csv")
     print(pred.total)
     print(pred.average)
